@@ -11,7 +11,7 @@ function calculateScore(elements) {
     let score = baseValue + (aveGOE * 0.1 *baseValue); // Calculates the Elemental Score.
     elementalScore += score;
   }; 
-  return elementalScore.toFixed(1); // Resturns the final TES rounded to 1 decimal number.
+  return Number(elementalScore.toFixed(1)); // Returns the final TES rounded to 1 decimal number.
 };
 // Input
 // Example 1
