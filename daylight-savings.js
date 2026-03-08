@@ -28,3 +28,7 @@ console.log(calculateSleepDebt(planned, actual)); // Output: [ 8, 2 ]
 planned = [6, 6, 6, 6, 6, 8, 8];
 actual = [5, 7, 2.5, 5, 5.5, 6, 4];
 console.log(calculateSleepDebt(planned, actual)); // Output: [ 13, 5 ]
+// My sleep debt.
+planned = [8, 7, 7, 7, 7, 7, 8];
+actual = [7, 8, 8, 8, 7, 7.5, 7];
+console.log(calculateSleepDebt(planned, actual)); // Output: [ 3, 1 ]
