@@ -30,10 +30,10 @@ function analyze(percentages) {
 // Outputs:
 // Example 1 - Meta
 let percentages = [31.0, 31.0, 33.0, 35.0, 36.0, 36.0, 36.2, 36.7, 37.1];
-console.log(analyze(percentages));
+console.log(analyze(percentages)); // Output: [ 0.7625, 'improving', 0 ]
 // Example 2 - Amazon
 percentages = [42.0, 43.0, 42.0, 43.0, 44.0, 44.0, 44.6, 44.8, 44.7, 45.0, 45.8];
-console.log(analyze(percentages));
+console.log(analyze(percentages)); // Output: [ 0.38, 'improving', 2 ]
 //Example 3 - Apple
 percentages = [30.0, 31.0, 32.0, 32.0, 33.0, 34.0, 34.0, 34.8, 35.0, 35.0, 35.3];
-console.log(analyze(percentages));
+console.log(analyze(percentages)); // Output: [ 0.53, 'improving', 0 ]
