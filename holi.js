@@ -1,12 +1,15 @@
 function findMissingColors(grid) {
+  // Defines the full set of colors.
   const fullSet = ["🟥", "🟧", "🟨", "🟩", "🟦", "🟪", "🟫"];
-  const seenColors = new Set()
+  
   // Turns the 2D array into a simple list.
+  const seenColors = new Set()
   for (let row of grid) {
     for (let colors of row) {
       seenColors.add(colors);
     };
   };
+
   // Finds the missing color or colors in order.
   const missingColors = [];
   for (let colors of fullSet) {
@@ -14,9 +17,12 @@ function findMissingColors(grid) {
       missingColors.push(colors)
     };
   };
+
   return missingColors;
 };
-// Input
+
+// Input:
+
 // Example 1
 let grid = [["🟥", "🟧", "🟨", "🟩", "🟦", "🟪", "🟥"],
   ["🟨", "🟩", "🟦", "🟪", "🟥", "🟧", "🟨"],

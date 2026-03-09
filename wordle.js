@@ -5,8 +5,10 @@ function wordleGuess(secret, guess) {
         count++;
     };
   };
+  
   return count;
 };
+
 // Inputs:
 
 // Example 1
