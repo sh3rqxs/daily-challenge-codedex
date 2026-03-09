@@ -58,8 +58,8 @@ function calculateDescent(altitude) {
 
 // Example 1
 let altitude = 200;
-console.log(calculateDescent(altitude)); // Output: [ 1511.7 ]
+console.log(calculateDescent(altitude)); // Output: 1511.7
 
 // Example 2
 altitude = 12;
-console.log(calculateDescent(altitude)); // Output: [ 600 ]
+console.log(calculateDescent(altitude)); // Output: 600
