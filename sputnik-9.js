@@ -53,6 +53,7 @@ function calculateDescent(altitude) {
   let totalDescentTime = descentTime;
   return Number(totalDescentTime.toFixed(1));
 };
+
 // Inputs:
 
 // Example 1
