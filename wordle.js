@@ -7,11 +7,13 @@ function wordleGuess(secret, guess) {
   };
   return count;
 };
-// Inputs
+// Inputs:
+
 // Example 1
 let secret = "CODEX";
 let guess = "COINS";
 console.log(wordleGuess(secret, guess)); // Output: 2
+
 // Example 2
 secret = "HELLO";
 guess = "WORLD";
