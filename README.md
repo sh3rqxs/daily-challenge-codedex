@@ -14,6 +14,7 @@ Feel free to explore, learn, and share your own approaches.
 - [Day 6 - Daylight Savings](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/daylight-savings.js) ⏰
 - [Day 7 - International Women's Day](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/international-womens-day.js) 💖
 - [Day 8 - Sputnik 9](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/sputnik-9.js) 🚀
+- [Day 9 - Ring Ring](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/ring-ring.js) ☎️
 
 (Index will grow as I continue my daily streak!)
 
