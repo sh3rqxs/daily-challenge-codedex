@@ -23,6 +23,7 @@ function minimumComponents(components) {
 
     // Option 1: Picks the current component.
     findCombinations(index + 1, currentSum + components[index], currentCount + 1);
+
     // Option 2: Skips the current component.
     findCombinations(index + 1, currentSum, currentCount);
   };
