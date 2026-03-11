@@ -15,6 +15,7 @@ Feel free to explore, learn, and share your own approaches.
 - [Day 7 - International Women's Day](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/international-womens-day.js) 💖
 - [Day 8 - Sputnik 9](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/sputnik-9.js) 🚀
 - [Day 9 - Ring Ring](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/ring-ring.js) ☎️
+- [Day 10 - Hitchhiker's Guide](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/hitchhikers-guide.js) 🪐
 
 (Index will grow as I continue my daily streak!)
 
