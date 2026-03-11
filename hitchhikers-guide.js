@@ -5,6 +5,7 @@ function minimumComponents(components) {
 
   // Finds the combination with the minimum number of components.
   function findCombinations(index, currentSum, currentCount) {
+
     // Success: Found a combination.
     if (currentSum === target) {
       if (currentCount < minCount) {
@@ -12,11 +13,14 @@ function minimumComponents(components) {
       };
       return;
     };
+
     // Failure: Exceeded the target or ran out of components.
     if (currentSum > target || index >= components.length) {
       return;
     };
+
     // Tells when to pick or skip the current component.
+
     // Option 1: Picks the current component.
     findCombinations(index + 1, currentSum + components[index], currentCount + 1);
     // Option 2: Skips the current component.
