@@ -32,4 +32,4 @@ console.log(checkUrl(address)); // Output: "invalid"
 
 // Example 3
 address = "http://en.wikipedia.org";
-console.log(checkUrl(address)); // Output: "invalid"
+console.log(checkUrl(address)); // Output: "valid"
