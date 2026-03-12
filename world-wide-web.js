@@ -13,7 +13,7 @@ function checkUrl(address) {
   
   // Checks allowed characters in domain.
   const allowedChars = /^[a-zA-Z0-9-.]+$/.test(domain);
-  if (!allowedChars) { // Checks if contains letter, digits, hypens or dots.
+  if (!allowedChars) { // Checks if contains letter, digits, hyphens or dots.
     return "invalid";
   }
   
