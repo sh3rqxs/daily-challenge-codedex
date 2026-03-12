@@ -16,6 +16,7 @@ Feel free to explore, learn, and share your own approaches.
 - [Day 8 - Sputnik 9](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/sputnik-9.js) 🚀
 - [Day 9 - Ring Ring](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/ring-ring.js) ☎️
 - [Day 10 - Hitchhiker's Guide](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/hitchhikers-guide.js) 🪐
+- [Day 11 - World Wide Web](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/world-wide-web.js) 🌐
 
 (Index will grow as I continue my daily streak!)
 
