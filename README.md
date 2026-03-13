@@ -1,6 +1,6 @@
 ## Daily Challenge Codédex  🎯
 
-Welcome to my collection of Codédex March Daily Challenge Solutions!   
+Welcome to my collection of Codédex March 2026 Daily Challenge Solutions!   
 Feel free to explore, learn, and share your own approaches.
 
 ---
@@ -9,7 +9,7 @@ Feel free to explore, learn, and share your own approaches.
 
 - **Language:** JavaScript
 - **Structure:** Each challenge has its own file including the code solution and some comments.
-- **Goal:** Document my journey, share solutions, and build a portfolio of consistent practice. 
+- **Goal:** Document my journey, share solutions, and sharpen my coding skills! 
 
 ---
 
@@ -46,4 +46,4 @@ Feel free to explore, learn, and share your own approaches.
 - [ ] Day 29 - []()
 - [ ] Day 30 - []()
 
-(Updating Index as I continue my daily streak!)
+**Note:** Updating Index as I continue my daily streak! 🔥
