@@ -27,7 +27,7 @@ Feel free to explore, learn, and share your own approaches.
 - [x] Day 10 - [Hitchhiker's Guide](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/hitchhikers-guide.js) 🪐
 - [x] Day 11 - [World Wide Web](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/world-wide-web.js) 🌐
 - [x] Day 12 - [Palindrome](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/palindrome.js) 🏎️
-- [ ] Day 13 - []()
+- [x] Day 13 - [Pi Day](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/pi-day.js) 🥧
 - [ ] Day 14 - []()
 - [ ] Day 15 - []()
 - [ ] Day 16 - []()
