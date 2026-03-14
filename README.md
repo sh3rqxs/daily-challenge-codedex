@@ -1,4 +1,4 @@
-## Daily Challenge Codédex  🎯
+### Daily Challenge Codédex  🎯
 
 Welcome to my collection of Codédex March 2026 Daily Challenge Solutions!   
 Feel free to explore, learn, and share your own approaches.
