@@ -1,4 +1,4 @@
-### Daily Challenge Codédex  🎯
+### Daily Challenge Codédex  💻
 
 Welcome to my collection of Codédex March 2026 Daily Challenge Solutions!   
 Feel free to explore, learn, and share your own approaches.
@@ -28,7 +28,7 @@ Feel free to explore, learn, and share your own approaches.
 - [x] Day 11 - [World Wide Web](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/world-wide-web.js) 🌐
 - [x] Day 12 - [Palindrome](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/palindrome.js) 🏎️
 - [x] Day 13 - [Pi Day](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/pi-day.js) 🥧
-- [ ] Day 14 - []()
+- [x] Day 14 - [Caesar Cipher](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/caesar-cipher.js) 🏛️
 - [ ] Day 15 - []()
 - [ ] Day 16 - []()
 - [ ] Day 17 - []()
@@ -46,4 +46,4 @@ Feel free to explore, learn, and share your own approaches.
 - [ ] Day 29 - []()
 - [ ] Day 30 - []()
 
-**Note:** Updating Index as I continue my daily streak! 🔥
+**Note:** Updating index as I continue my daily streak! 🔥
