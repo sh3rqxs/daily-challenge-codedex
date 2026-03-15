@@ -1,5 +1,5 @@
 function decodeMessage(message, shift) {
-  let = decodedMessage = "";
+  let decodedMessage = "";
  
     // Loops through each character in the message.
   for (let char of message) {
@@ -12,7 +12,7 @@ function decodeMessage(message, shift) {
     let asciiCode = char.charCodeAt(0);  
     
     // Shifts backwards and wraps around.
-    let newCode = ((asciiCode - 97 - shift + 26) % 26) + 97;
+    let newCode = (((asciiCode - 97 - shift) % 26) + 26) % 26 + 97;
     
     // Converts back to character.
     decodedMessage += String.fromCharCode(newCode);
