@@ -29,7 +29,7 @@ Feel free to explore, learn, and share your own approaches.
 - [x] Day 12 - [Palindrome](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/palindrome.js) 🏎️
 - [x] Day 13 - [Pi Day](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/pi-day.js) 🥧
 - [x] Day 14 - [Caesar Cipher](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/caesar-cipher.js) 🏛️
-- [ ] Day 15 - []()
+- [x] Day 15 - [Oscars 2026](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/oscars-2026.js) 🏆
 - [ ] Day 16 - []()
 - [ ] Day 17 - []()
 - [ ] Day 18 - []()
