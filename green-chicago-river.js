@@ -10,8 +10,8 @@ function luckyRiver(river, hours) {
   }
   
   // Drifts one position to the right after every hour.
-  greenPatch.forEach(shamrockIndex => {
-    for (let p = shamrockIndex; p <= shamrockIndex + hours; p++) {
+  greenPatch.forEach(dyeSource => {
+    for (let p = dyeSource; p <= dyeSource + hours; p++) {
       if (p < river.length) {
         dyedRiver[p] = "☘️";
       }
