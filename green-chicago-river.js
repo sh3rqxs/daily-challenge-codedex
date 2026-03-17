@@ -9,7 +9,7 @@ function luckyRiver(river, hours) {
     }
   }
   
-  // Drifts one position to the right after every hour.
+  // Drifts the dye source one position to the right after every hour.
   greenPatch.forEach(dyeSource => {
     for (let p = dyeSource; p <= dyeSource + hours; p++) {
       if (p < river.length) {
