@@ -31,7 +31,7 @@ Feel free to explore, learn, and share your own approaches.
 - [x] Day 14 - [Caesar Cipher](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/caesar-cipher.js) 🏛️
 - [x] Day 15 - [Oscars 2026](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/oscars-2026.js) 🏆
 - [x] Day 16 - [Green Chicago River](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/green-chicago-river.js) ☘️
-- [ ] Day 17 - []()
+- [x] Day 17 - [Flight Vouchers](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/flight-vouchers.js) 🏖️
 - [ ] Day 18 - []()
 - [ ] Day 19 - []()
 - [ ] Day 20 - []()
