@@ -32,7 +32,7 @@ Feel free to explore, learn, and share your own approaches.
 - [x] Day 15 - [Oscars 2026](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/oscars-2026.js) 🏆
 - [x] Day 16 - [Green Chicago River](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/green-chicago-river.js) ☘️
 - [x] Day 17 - [Flight Vouchers](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/flight-vouchers.js) 🏖️
-- [ ] Day 18 - []()
+- [x] Day 18 - [March Madness](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/march-madness.js) 🏀
 - [ ] Day 19 - []()
 - [ ] Day 20 - []()
 - [ ] Day 21 - []()
