@@ -2,10 +2,10 @@ function upsetProbability(matchups) {
   let upset = [];
 
   for (let i = 0; i < matchups.length; i++) {
-    let arr = matchups[i];
+    let match = matchups[i];
   
-    const seedA = arr[1];
-    const seedB = arr[3];
+    const seedA = match[1];
+    const seedB = match[3];
     
     const prob = seedA / (seedA + seedB);
     const result = Number(prob.toFixed(2));
