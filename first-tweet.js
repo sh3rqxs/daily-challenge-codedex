@@ -1,5 +1,5 @@
 function tweetBalance(tweet) {
-  let bankAccount = 140;
+  let charsLeft = 140;
   let count = 0;
   let string = tweet.split(" ");
 
@@ -16,7 +16,7 @@ function tweetBalance(tweet) {
   }
 
   count += string.length - 1; // Adds spaces
-  return bankAccount - count;
+  return charsLeft - count;
 }
 
 // Inputs:
