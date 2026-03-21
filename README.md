@@ -33,7 +33,7 @@ Feel free to explore, learn, and share your own approaches.
 - [x] Day 16 - [Green Chicago River](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/green-chicago-river.js) ☘️
 - [x] Day 17 - [Flight Vouchers](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/flight-vouchers.js) 🏖️
 - [x] Day 18 - [March Madness](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/march-madness.js) 🏀
-- [ ] Day 19 - []()
+- [x] Day 19 - [Cherry Blossoms](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/cherry-blossoms.js) 🌸
 - [ ] Day 20 - []()
 - [ ] Day 21 - []()
 - [ ] Day 22 - []()
