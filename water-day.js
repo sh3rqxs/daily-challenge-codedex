@@ -1,11 +1,11 @@
 function leakyPipe(volume, leak, hours, threshold) {
   let currentVolume = volume;
-  let percentagePerHours = leak;
-  let iterations = hours;
+  const lossRate = leak;
+  const iterations = hours;
   let waterRemaining = 0;
   
   for (let i = 0; i < iterations; i++) {
-    currentVolume = currentVolume * [1 - (percentagePerHours / 100)];
+    currentVolume = currentVolume * [1 - (lossRate / 100)];
     if (currentVolume >= threshold) {
       waterRemaining = Number(currentVolume.toFixed(2));
     } else {
