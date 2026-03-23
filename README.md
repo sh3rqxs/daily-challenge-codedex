@@ -36,7 +36,7 @@ Feel free to explore, learn, and share your own approaches.
 - [x] Day 19 - [Cherry Blossoms](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/cherry-blossoms.js) 🌸
 - [x] Day 20 - [First Tweet](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/first-tweet.js) 🐦
 - [x] Day 21 - [Water Day](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/water-day.js) 💧
-- [ ] Day 22 - []()
+- [x] Day 22 - [Cuddly Kittens](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/cuddly-kittens.js) 🐈
 - [ ] Day 23 - []()
 - [ ] Day 24 - []()
 - [ ] Day 25 - []()
