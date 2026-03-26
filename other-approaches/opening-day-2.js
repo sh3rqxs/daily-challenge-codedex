@@ -2,11 +2,11 @@ function streakCounter(games) {
   let counter = 0;
   let longestStreak = 0;
 
-  for (let i = 0; i < games.length; i++) {
+  for (let i = 0; i < games.length; i++) { // Using a classic for loop.
     let game = games[i];
     if (game === "W") {
       counter++;
-      if (counter > longestStreak) {
+      if (counter > longestStreak) { // Using an if statement.
         longestStreak = counter;
       }
     } else if (game === "L") {
