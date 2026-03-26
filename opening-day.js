@@ -2,10 +2,10 @@ function streakCounter(games) {
   let counter = 0;
   let longestStreak = 0;
 
-  for (let game of games) {
+  for (let game of games) { // Using a for...of loop.
     if (game === "W") {
       counter++;
-      longestStreak = Math.max(longestStreak, counter);
+      longestStreak = Math.max(longestStreak, counter); // Using Math.max().
     } else if (game === "L") {
       counter = 0;
     }
