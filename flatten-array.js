@@ -3,9 +3,7 @@ function flatten(array) {
 
   for (let item of array) {
     if (Array.isArray(item)) {
-      for (let innerItem of flatten(item)) {
-        flattenedArray.push(innerItem);
-      }
+      flattenedArray.push(...flatten(item));
     } else {
       flattenedArray.push(item);
     }
