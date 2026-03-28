@@ -40,7 +40,7 @@ Feel free to explore, learn, and share your own approaches.
 - [x] Day 23 - [Earthquake Anomaly](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/earthquake-anomaly.js) 🌏
 - [x] Day 24 - [Opening Day](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/opening-day.js) ⚾
 - [x] Day 25 - [Flatten Array](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/flatten-array.js) 🪜
-- [ ] Day 26 - []()
+- [x] Day 26 - [Infinite Monkey Theorem](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/infinite-monkey-theorem.js) 🐒
 - [ ] Day 27 - []()
 - [ ] Day 28 - []()
 - [ ] Day 29 - []()
