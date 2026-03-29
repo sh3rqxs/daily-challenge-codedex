@@ -7,10 +7,10 @@ function daysToInfect(city) {
   for (let r = 0; r < rows; r++) {
     for (let c = 0; c < columns; c++) {
       if (city[r][c] === "🧟") {
-        queue.push([r, c]); // Starting count zombies.
+        queue.push([r, c]); // Starting count of zombies.
       }
       if (city[r][c] === "👤") {
-        healthyCount++; // Starrting count of healthy people.
+        healthyCount++; // Starting count of healthy people.
       }
     }
   }
@@ -22,7 +22,7 @@ function daysToInfect(city) {
   const directions = [[-1, 0], [1, 0], [0, -1], [0, 1]]; // Up, down, left, right.
   let days = 0;
 
-  // Spreads infection day by day with a (BFS).
+  // Spreads the infection day by day with (BFS).
   while (queue.length > 0) {
     const currentWave = queue.length;
     let infectedToday = false;
@@ -44,7 +44,7 @@ function daysToInfect(city) {
   }
 
   if (infectedToday) {
-    days++; // Counts a day if someone was actually infected.
+    days++; // Increments days if someone was actually infected.
     }
   }
 
