@@ -7,42 +7,46 @@ function daysToInfect(city) {
   for (let r = 0; r < rows; r++) {
     for (let c = 0; c < columns; c++) {
       if (city[r][c] === "🧟") {
-        queue.push([r, c]); // Starting zombies.
+        queue.push([r, c]); // Starting count zombies.
       }
       if (city[r][c] === "👤") {
-        healthyCount++; // Healthy people count.
+        healthyCount++; // Starrting count of healthy people.
       }
     }
   }
 
-    const directions = [[-1, 0], [1, 0], [0, -1], [0, 1]]; // Up, down, left, right.
-    let days = 0;
+  if (healthyCount === 0) { // If there's no one to infect.
+    return 0;
+  }
 
-    // Spreads infection day by day with (BFS).
-    while (queue.length > 0) {
-      const currentWave = queue.length;
-      let infectedToday = false;
+  const directions = [[-1, 0], [1, 0], [0, -1], [0, 1]]; // Up, down, left, right.
+  let days = 0;
 
-      for (let i = 0; i < currentWave; i++) {
-      const [r, c] = queue.shift();
+  // Spreads infection day by day with a (BFS).
+  while (queue.length > 0) {
+    const currentWave = queue.length;
+    let infectedToday = false;
 
-      for (const [dr, dc] of directions) {
-        const nr = r + dr;
-        const nc = c + dc;
+    for (let i = 0; i < currentWave; i++) {
+    const [r, c] = queue.shift();
 
-        if (nr >= 0 && nr < rows && nc >= 0 && nc < columns && city[nr][nc] === "👤") {
-          city[nr][nc] = "🧟"; // Infects healthy people.
-          healthyCount--;
-          queue.push([nr, nc]);
-          infectedToday = true;
-        } 
-      }
+    for (const [dr, dc] of directions) {
+    const nr = r + dr;
+    const nc = c + dc;
+
+      if (nr >= 0 && nr < rows && nc >= 0 && nc < columns && city[nr][nc] === "👤") {
+        city[nr][nc] = "🧟"; // Infects healthy people.
+        healthyCount--;
+        queue.push([nr, nc]);
+        infectedToday = true;
+      } 
     }
+  }
 
-      if (infectedToday) {
-        days++; // Counts a day if someone was actually infected.
-      }
+  if (infectedToday) {
+    days++; // Counts a day if someone was actually infected.
     }
+  }
 
   return healthyCount === 0 ? days : -1; // If some people can never be infected.
 }
