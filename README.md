@@ -42,7 +42,7 @@ Feel free to explore, learn, and share your own approaches.
 - [x] Day 25 - [Flatten Array](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/flatten-array.js) 🪜
 - [x] Day 26 - [Infinite Monkey Theorem](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/infinite-monkey-theorem.js) 🐒
 - [x] Day 27 - [28 Days Later](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/28-days-later.js) 🧟
-- [ ] Day 28 - []()
+- [x] Day 28 - [Leaderboard Stats](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/leaderboard-stats.js) 📊
 - [ ] Day 29 - []()
 - [ ] Day 30 - []()
 
