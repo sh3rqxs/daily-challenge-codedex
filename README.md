@@ -13,8 +13,6 @@ Feel free to explore, learn, and share your own approaches.
 
 ---
 
-https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/Solutions/02-blood-moon.js
-
 ### 🗓️ Challenge Index
 
 | Day | <div align="center">Solution</div> | Entry Post |
