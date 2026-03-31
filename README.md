@@ -43,7 +43,7 @@ Feel free to explore, learn, and share your own approaches.
 - [x] Day 26 - [Infinite Monkey Theorem](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/infinite-monkey-theorem.js) 🐒
 - [x] Day 27 - [28 Days Later](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/28-days-later.js) 🧟
 - [x] Day 28 - [Leaderboard Stats](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/leaderboard-stats.js) 📊
-- [ ] Day 29 - []()
+- [x] Day 29 - [Ye Olde Emoticons](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/ye-olde-emoticons.js) 📰
 - [ ] Day 30 - []()
 
 **Note:** Updating index as I continue my daily streak! 🔥
