@@ -1,6 +1,6 @@
 ### Daily Challenge Codédex  💻
 
-Welcome to my collection of Daily Challenge Solutions (March 2026 Edition)!
+Welcome to my collection of Daily Challenge Solutions (March 2026 Edition)!    
 Feel free to explore, learn, and share your own approaches.
 
 ---
