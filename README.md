@@ -10,17 +10,17 @@
 
 <div align="center">  
 
-![Static Badge](https://img.shields.io/badge/Language-JavaScript-FFFFBA?style=for-the-badge&labelColor=3D3D1A)
-![Static Badge](https://img.shields.io/badge/Platform-Cod%C3%A9dex-BAE1FF?style=for-the-badge&labelColor=1A2E3D)
-![Static Badge](https://img.shields.io/badge/Challenge%20Edition-March%202026-E8D5FF?style=for-the-badge&labelColor=2E1A3D)
-![Static Badge](https://img.shields.io/badge/Days%20Completed-30%2F30-BAFFC9?style=for-the-badge&labelColor=1A3D26)
-![Static Badge](https://img.shields.io/badge/Best%20Streak-30%20Days-FFDFBA?style=for-the-badge&labelColor=3D2E1A)
+![Language](https://img.shields.io/badge/Language-JavaScript-FFFFBA?style=for-the-badge&labelColor=3D3D1A)
+![Platform](https://img.shields.io/badge/Platform-Cod%C3%A9dex-BAE1FF?style=for-the-badge&labelColor=1A2E3D)
+![Challenge Edition](https://img.shields.io/badge/Challenge%20Edition-March%202026-E8D5FF?style=for-the-badge&labelColor=2E1A3D)
+![Days Completed](https://img.shields.io/badge/Days%20Completed-30%2F30-BAFFC9?style=for-the-badge&labelColor=1A3D26)
+![Best Streak](https://img.shields.io/badge/Best%20Streak-30%20Days-FFDFBA?style=for-the-badge&labelColor=3D2E1A)
 
 </div>
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&width=435&lines=%F0%9F%97%93%EF%B8%8F+Challenge+Index)](https://git.io/typing-svg)    
+[![Challenge Index](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&width=435&lines=%F0%9F%97%93%EF%B8%8F+Challenge+Index)](https://git.io/typing-svg)    
 
 <div align="center">
 
@@ -59,15 +59,15 @@
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=%E2%AD%90+Favorite+Challenge)](https://git.io/typing-svg)   
+[![Favorite Challenge](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=%E2%AD%90+Favorite+Challenge)](https://git.io/typing-svg)   
 **Day 26 - Infinite Monkey Theorem 🐒** [Solution](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/Solutions/26-infinite-monkey-theorem.js) / [View Post →](https://www.codedex.io/community/monthly-challenge/submission/aNl246LScgYsEJfnM4l0)  
 This challenge taught me how to combine `Math.random()`, string manipulation, and while loops to simulate probability — turning a fun math theory into actual working code.  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=%F0%9F%94%A5+Hardest+Challenge)](https://git.io/typing-svg)  
+[![Hardest Challenge](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=%F0%9F%94%A5+Hardest+Challenge)](https://git.io/typing-svg)  
 **Day 3 - Holi 🌈** [Solution](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/Solutions/03-holi.js) / [View Post →](https://www.codedex.io/community/monthly-challenge/submission/aiFBCQFLcEYnnouXHEOl)  
 This one took me the longest. My biggest struggle was handling the edge cases with the grid input, specifically in case 4 — I kept getting unexpected results until I figured out the right way to iterate through a 2D array. Through the frustration I learned how to flatten a grid, use a `Set` to track seen values, and find missing items by comparing against a predefined list.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=%F0%9F%A7%A0+What+I+Learned)](https://git.io/typing-svg)  
+[![What I Learned](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=%F0%9F%A7%A0+What+I+Learned)](https://git.io/typing-svg)  
 Completing these 30 challenges taught me more than just JavaScript — it taught me 
 consistency. I sharpened my problem-solving skills, got more comfortable with 
 core JS methods, and proved to myself that showing up every day compounds into 
@@ -77,10 +77,10 @@ real growth.
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB3BA&center=true&width=435&lines=%F0%9F%A4%9D+Connect+With+Me)](https://git.io/typing-svg)  
-![Static Badge](https://img.shields.io/badge/GitHub-C9B1FF?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fsh3rqxs)
-![Static Badge](https://img.shields.io/badge/Cod%C3%A9dex-FFFFBA?style=for-the-badge&link=https%3A%2F%2Fwww.codedex.io%2F%40sh3rqxs)
-![Static Badge](https://img.shields.io/badge/Linkedin-BAE1FF?style=for-the-badge&link=www.linkedin.com%2Fin%2Fsherlyne-hernandez-496a03177)
+[![Connect With Me](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB3BA&center=true&width=435&lines=%F0%9F%A4%9D+Connect+With+Me)](https://git.io/typing-svg)  
+[![GitHub](https://img.shields.io/badge/GitHub-C9B1FF?style=for-the-badge)](https://github.com/sh3rqxs)
+[![Codédex](https://img.shields.io/badge/Cod%C3%A9dex-FFFFBA?style=for-the-badge&logoColor=white)](https://www.codedex.io/@sh3rqxs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BAE1FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sherlyne-hernandez-496a03177/)  
 
 </div>
     
