@@ -55,7 +55,7 @@
 | 27 | 28 Days Later 🧟 | [`27-28-days-later.js`](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/Solutions/27-28-days-later.js) | [View Post →](https://www.codedex.io/community/monthly-challenge/submission/H2GmlwI2HIGbjBFFOQXn) |
 | 28 | Leaderboard Stats 📊 | [`28-leaderboard-stats.js`](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/Solutions/28-leaderboard-stats.js) | [View Post →](https://www.codedex.io/community/monthly-challenge/submission/VstoqCiYQZKvicyjA4wv) |
 | 29 | Ye Olde Emoticons 📰 | [`29-ye-olde-emoticons.js`](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/Solutions/29-ye-olde-emoticons.js) | [View Post →](https://www.codedex.io/community/monthly-challenge/submission/1NnuURwM6ZzT1ZeJqkum) |
-| 30 | My Best Streak 🔥 | [`30-my-longest-streak.js`](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/Solutions/30-my-longest-streak.js) | [View Post →]() |
+| 30 | My Best Streak 🔥 | [`30-my-longest-streak.js`](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/Solutions/30-my-longest-streak.js) | [View Post →](https://www.codedex.io/community/monthly-challenge/submission/sxWL64KQAXZC6fIWvE4n) |
 
 </div>
 
@@ -68,7 +68,7 @@ This challenge taught me how to combine `Math.random()`, string manipulation, an
 This one took me the longest. My biggest struggle was handling the edge cases with the grid input, specifically in case 4 — I kept getting unexpected results until I figured out the right way to iterate through a 2D array. Through the frustration I learned how to flatten a grid, use a `Set` to track seen values, and find missing items by comparing against a predefined list.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=%F0%9F%A7%A0+What+I+Learned)](https://git.io/typing-svg)  
-Completing 30 challenges taught me more than just JavaScript — it taught me 
+Completing these 30 challenges taught me more than just JavaScript — it taught me 
 consistency. I sharpened my problem-solving skills, got more comfortable with 
 core JS methods, and proved to myself that showing up every day compounds into 
 real growth.
@@ -84,8 +84,6 @@ real growth.
 
 </div>
     
----
-
 <div align="center">
 Made with 💖 by shercodes
 
