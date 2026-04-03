@@ -1,7 +1,8 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFB3BA&center=true&width=435&lines=Daily+Challenge+Cod%C3%A9dex+%F0%9F%92%BB;March+2026+Edition;30+Challenges+Completed+%E2%9C%85+;By+shercodes)](https://git.io/typing-svg)   
-*Welcome to my collection of Daily Challenge Solutions! Feel free to explore, learn, and share your own approaches.*
+*Welcome to my collection of Daily Challenge Solutions!*  
+*Feel free to explore, learn, and share your own approaches.*
 </div>
 
 ---
@@ -17,6 +18,15 @@
 ![Best Streak](https://img.shields.io/badge/Best%20Streak-30%20Days-FFDFBA?style=for-the-badge&labelColor=3D2E1A)
 
 </div>
+
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=%F0%9F%8C%B1+Origin+Story)](https://git.io/typing-svg)  
+This repo started as a personal challenge — a way to stay consistent and sharpen my JavaScript skills by coding every single day. No grand plan, just a commitment to show up and build something daily.  
+
+What I didn't expect was the ripple effect. The [Codédex](https://www.codedex.io) team came across my work, and in a comment on one of my posts they shared that this repo had inspired them to create their own daily coding challenge repo.   
+
+It's a good reminder that side projects, no matter how personal, can spark something bigger than you imagined. 🚀 
 
 ---
 
@@ -59,13 +69,19 @@
 
 </div>
 
+---
+
 [![Favorite Challenge](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=%E2%AD%90+Favorite+Challenge)](https://git.io/typing-svg)   
 **Day 26 - Infinite Monkey Theorem 🐒** [Solution](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/Solutions/26-infinite-monkey-theorem.js) / [View Post →](https://www.codedex.io/community/monthly-challenge/submission/aNl246LScgYsEJfnM4l0)  
 This challenge taught me how to combine `Math.random()`, string manipulation, and while loops to simulate probability — turning a fun math theory into actual working code.  
 
+---
+
 [![Hardest Challenge](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=%F0%9F%94%A5+Hardest+Challenge)](https://git.io/typing-svg)  
 **Day 3 - Holi 🌈** [Solution](https://github.com/sh3rqxs/daily-challenge-codedex/blob/main/Solutions/03-holi.js) / [View Post →](https://www.codedex.io/community/monthly-challenge/submission/aiFBCQFLcEYnnouXHEOl)  
-This one took me the longest. My biggest struggle was handling the edge cases with the grid input, specifically in case 4 — I kept getting unexpected results until I figured out the right way to iterate through a 2D array. Through the frustration I learned how to flatten a grid, use a `Set` to track seen values, and find missing items by comparing against a predefined list.
+This one took me the longest. My biggest struggle was handling the edge cases with the grid input, specifically in case 4 — I kept getting unexpected results until I figured out the right way to iterate through a 2D array. Through the frustration I learned how to flatten a grid, use a `Set()` to track seen values, and find missing items by comparing against a predefined list.
+
+---
 
 [![What I Learned](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=%F0%9F%A7%A0+What+I+Learned)](https://git.io/typing-svg)  
 Completing these 30 challenges taught me more than just JavaScript — it taught me 
